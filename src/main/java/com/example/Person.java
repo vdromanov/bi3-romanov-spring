@@ -13,6 +13,6 @@ public class Person {
     @Id
     @GeneratedValue
     private long id;
-    private String firstName;
+    private String firstNsame;
     private String lastName;
 }
