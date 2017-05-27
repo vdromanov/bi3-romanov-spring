@@ -10,9 +10,7 @@ import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 
-/**
- * Created by student on 4/27/17.
- */
+
 @EnableWebSecurity
 public class WebSecurityConfig {
     @Bean
